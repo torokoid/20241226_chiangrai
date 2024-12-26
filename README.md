@@ -135,7 +135,18 @@ p.note { display: none; }
 
 <h2><span class="yellow">朝から重低音を響かせてお祭りがスタート。周辺が車で埋め尽くされました</span></h2>
 
-
+<a href="20241226_001.JPG" target="_blank"><img src="20241226_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241226_002.JPG" target="_blank"><img src="20241226_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241226_003.JPG" target="_blank"><img src="20241226_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241226_004.JPG" target="_blank"><img src="20241226_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241226_005.JPG" target="_blank"><img src="20241226_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241226_006.JPG" target="_blank"><img src="20241226_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241226_007.JPG" target="_blank"><img src="20241226_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241226_008.JPG" target="_blank"><img src="20241226_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241226_009.JPG" target="_blank"><img src="20241226_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241226_010.JPG" target="_blank"><img src="20241226_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241226_011.JPG" target="_blank"><img src="20241226_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241226_012.JPG" target="_blank"><img src="20241226_012.JPG" alt="サンプル画像" width="900" /></a>
 
 
 
