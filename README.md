@@ -128,9 +128,9 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 
-<h2><span class="yellow">今回のビニール袋を閉じる輪ゴムマジックの市場はこの辺り<br>例によってGoogleMapsをそのまま埋め込みました</span></h2>
+<h2><span class="yellow">今回のお祭り会場はこの辺り<br>かなりローカルな普通の集落にあるイベント広場です</span></h2>
 
-<iframe src="https://www.google.com/maps/embed?pb=!4v1735093046822!6m8!1m7!1s8BiEmlfsINFVyEA2x2FBCA!2m2!1d20.22443932575729!2d99.94861903097876!3f270.05588460078474!4f-0.07190411519819406!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1735203711487!6m8!1m7!1s7aWdQyeuczHWVWfCGUsdqQ!2m2!1d20.19675970526572!2d99.90260775799003!3f132.31375769150043!4f-5.574055320227771!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 <h2><span class="yellow">朝から重低音を響かせてお祭りがスタート。周辺が車で埋め尽くされました</span></h2>
