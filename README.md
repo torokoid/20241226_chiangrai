@@ -139,11 +139,25 @@ p.note { display: none; }
 <a href="20241226_002.JPG" target="_blank"><img src="20241226_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241226_003.JPG" target="_blank"><img src="20241226_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241226_004.JPG" target="_blank"><img src="20241226_004.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">民族衣装着て、大カラオケ大会</span></h2>
 <a href="20241226_005.JPG" target="_blank"><img src="20241226_005.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">上の画像の動画</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/06rHpVU9lzY?si=SMPSJku7acg9vQUv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<h2><span class="yellow">選手交代してノリノリです</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NLYgMbbUppc?si=RO8v_2z3qbQ6xBKp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<h2><span class="yellow">ほとんどの参加者は、飲食で1日過ごします</span></h2>
 <a href="20241226_006.JPG" target="_blank"><img src="20241226_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241226_007.JPG" target="_blank"><img src="20241226_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241226_008.JPG" target="_blank"><img src="20241226_008.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">民族衣装のスタッフの女性を囲んで記念撮影</span></h2>
 <a href="20241226_009.JPG" target="_blank"><img src="20241226_009.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">人が集まるところに必ず居る宝くじのお姉様</span></h2>
 <a href="20241226_010.JPG" target="_blank"><img src="20241226_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241226_011.JPG" target="_blank"><img src="20241226_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241226_012.JPG" target="_blank"><img src="20241226_012.JPG" alt="サンプル画像" width="900" /></a>
