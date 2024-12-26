@@ -167,9 +167,9 @@ p.note { display: none; }
 <h2><span class="yellow">最初のGrが再登場！</span></h2>
 <a href="20241226_012.JPG" target="_blank"><img src="20241226_012.JPG" alt="サンプル画像" width="900" /></a>
 
+<br><br>
 
-
-
+<h2><span class="yellow">集落ごとに伝統の衣装が違ってて、<br>その昔は服装でどこから来たかを見分けてたとのこと</span></h2>
 
 
 
