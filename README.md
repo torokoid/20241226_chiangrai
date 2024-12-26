@@ -159,7 +159,11 @@ p.note { display: none; }
 
 <h2><span class="yellow">人が集まるところに必ず居る宝くじのお姉様</span></h2>
 <a href="20241226_010.JPG" target="_blank"><img src="20241226_010.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">このGrもノリノリでした</span></h2>
 <a href="20241226_011.JPG" target="_blank"><img src="20241226_011.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">最初のGrが再登場！</span></h2>
 <a href="20241226_012.JPG" target="_blank"><img src="20241226_012.JPG" alt="サンプル画像" width="900" /></a>
 
 
