@@ -120,7 +120,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2024/12/26 、年に1度の地域で開催されるお祭り !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2024/12/26 、タイ北部の街メーチャン郊外で、年に1度開催される地域のお祭り !!!</marquee></span></h1>
 
 
 
