@@ -128,9 +128,10 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 
-<h2><span class="yellow">今回のお祭り会場はこの辺り<br>かなりローカルな普通の集落にあるイベント広場です</span></h2>
+<h2><span class="yellow">今回のお祭り会場はこの辺り<br>画像のクリックでGoogleMapsに飛びます</span></h2>
 
-<iframe src="https://www.google.com/maps/embed?pb=!4v1735203711487!6m8!1m7!1s7aWdQyeuczHWVWfCGUsdqQ!2m2!1d20.19675970526572!2d99.90260775799003!3f132.31375769150043!4f-5.574055320227771!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a href="https://www.google.com/maps/dir/13.7705626,100.5292344//@13.7040561,100.4993181,12.21z/data=!4m2!4m1!3e0!5m1!1e2?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20241226_001.png" alt="サンプル画像" width="900" /></a>
+
 
 
 <h2><span class="yellow">朝から重低音を響かせてお祭りがスタート。周辺が車で埋め尽くされました</span></h2>
