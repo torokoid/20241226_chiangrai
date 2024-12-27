@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/20241226_chiangrai/20241226_011.JPG) center/cover no-repeat;
+background:url(https://torokoid.github.io/20241226_chiangrai/20241226_014.JPG) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -166,6 +166,10 @@ p.note { display: none; }
 
 <h2><span class="yellow">最初のGrが再登場！</span></h2>
 <a href="20241226_012.JPG" target="_blank"><img src="20241226_012.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">優勝チームはこちらでした</span></h2>
+<a href="20241226_013.JPG" target="_blank"><img src="20241226_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241226_014.JPG" target="_blank"><img src="20241226_014.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br>
 
